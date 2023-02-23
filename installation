@@ -1,0 +1,10 @@
+Install Python 3.8
+  https://www.python.org/downloads/
+
+Download healthmodel sources
+
+Install requirements
+  pip install -r requirements.txt
+
+Launch server
+  lancement.bat

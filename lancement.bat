@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe .\source\HealthModelViz8.py -wi 16 -he 8

@@ -1,0 +1,19 @@
+BaseVar:
+ EPOCH : 200
+ HA_Number:  50
+ width:  20
+ height: 20
+ Disposition_Threshold: 0.2
+ Patient_severity: 0.25
+ HA_Emotional_disposition : 0.2
+ Border_position: 0.5
+ Patient_countdown_init : 7
+ HA_Capacity : { start: 0.3, stop: 0.8, step: 0.05}
+ Parameter_K : 0.6
+ Illness_rate : 0.8
+ seed : 1
+
+#    LinkedVar:
+#      Patient_Sigma_severity :  "Patient_Mu_severity / 2"
+#      HA_Capacity_ub : "0.1 + HA_Capacity_lb"
+
